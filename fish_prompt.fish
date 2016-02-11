@@ -325,7 +325,7 @@ function _icons_initialize
   set -g ICON_VCS_TAG               \UF015" "     # 
   set -g ICON_VCS_BOOKMARK          \UF07B" "     # 
   set -g ICON_VCS_COMMIT            \UF01F" "     # 
-  set -g ICON_VCS_BRANCH            \UE0A0        # \UE0A0 or \UF020
+  set -g ICON_VCS_BRANCH            \UF020        # \UE0A0 or \UF020
   set -g ICON_VCS_REMOTE_BRANCH     \UE804" "     #  not displayed, should be branch icon on a book
   set -g ICON_VCS_DETACHED_BRANCH   \U27A6" "     # ➦
   set -g ICON_VCS_GIT               \UF00A" "     #  from Octicons
